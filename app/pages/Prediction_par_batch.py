@@ -24,6 +24,6 @@ if st.sidebar.button('Combien ça me coûte ?'):
 
     st.table(df)
 
-    somme = round(df['fare'].sum(),2)
+    somme = round(df['Prix'].sum(),2)
 
     st.text(f'Le total de vos courses va coûter {somme} $')
