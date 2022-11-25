@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 
 """
-# UberPred 🚗
+# UberPred 🚕
 """
 
 st.markdown(
