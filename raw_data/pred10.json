@@ -1,0 +1,102 @@
+[
+ {
+   "key": "2009-12-05 10:58:03.0000005",
+   "fare_amount": 5.7,
+   "pickup_datetime": "2009-12-05 10:58:03 UTC",
+   "pickup_longitude": "-73.986105",
+   "pickup_latitude": 40.726468,
+   "dropoff_longitude": "-74.003967",
+   "dropoff_latitude": 40.729337,
+   "passenger_count": 1
+ },
+ {
+   "key": "2014-02-19 21:42:16.0000004",
+   "fare_amount": 15.5,
+   "pickup_datetime": "2014-02-19 21:42:16 UTC",
+   "pickup_longitude": "-73.98602",
+   "pickup_latitude": 40.756367,
+   "dropoff_longitude": "-73.960374",
+   "dropoff_latitude": 40.799972,
+   "passenger_count": 1
+ },
+ {
+   "key": "2011-10-08 11:36:00.00000025",
+   "fare_amount": 17.7,
+   "pickup_datetime": "2011-10-08 11:36:00 UTC",
+   "pickup_longitude": "-74.014813",
+   "pickup_latitude": 40.711205,
+   "dropoff_longitude": "-74.014813",
+   "dropoff_latitude": 40.711205,
+   "passenger_count": 5
+ },
+ {
+   "key": "2011-11-03 14:23:36.0000005",
+   "fare_amount": 5.7,
+   "pickup_datetime": "2011-11-03 14:23:36 UTC",
+   "pickup_longitude": "-73.9669",
+   "pickup_latitude": 40.7728,
+   "dropoff_longitude": "-73.974",
+   "dropoff_latitude": 40.7631,
+   "passenger_count": 2
+ },
+ {
+   "key": "2010-12-13 21:00:18.0000009",
+   "fare_amount": 6.1,
+   "pickup_datetime": "2010-12-13 21:00:18 UTC",
+   "pickup_longitude": "-74.00117",
+   "pickup_latitude": 40.718877,
+   "dropoff_longitude": "-74.014814",
+   "dropoff_latitude": 40.709513,
+   "passenger_count": 1
+ },
+ {
+   "key": "2009-05-23 23:08:32.0000001",
+   "fare_amount": 5.7,
+   "pickup_datetime": "2009-05-23 23:08:32 UTC",
+   "pickup_longitude": "-73.993265",
+   "pickup_latitude": 40.738349,
+   "dropoff_longitude": "-74.005808",
+   "dropoff_latitude": 40.741242,
+   "passenger_count": 1
+ },
+ {
+   "key": "2009-11-17 09:09:35.0000004",
+   "fare_amount": 27.07,
+   "pickup_datetime": "2009-11-17 09:09:35 UTC",
+   "pickup_longitude": "-73.959893",
+   "pickup_latitude": 40.813775,
+   "dropoff_longitude": "-73.861905",
+   "dropoff_latitude": 40.768563,
+   "passenger_count": 1
+ },
+ {
+   "key": "2009-06-05 11:17:00.000000222",
+   "fare_amount": 8.9,
+   "pickup_datetime": "2009-06-05 11:17:00 UTC",
+   "pickup_longitude": "-73.958435",
+   "pickup_latitude": 40.783697,
+   "dropoff_longitude": "-73.976677",
+   "dropoff_latitude": 40.758858,
+   "passenger_count": 1
+ },
+ {
+   "key": "2010-05-06 19:38:13.0000002",
+   "fare_amount": 12.5,
+   "pickup_datetime": "2010-05-06 19:38:13 UTC",
+   "pickup_longitude": "-73.993389",
+   "pickup_latitude": 40.736531,
+   "dropoff_longitude": "-73.986437",
+   "dropoff_latitude": 40.777194,
+   "passenger_count": 1
+ },
+ {
+   "key": "2014-05-26 17:37:00.000000151",
+   "fare_amount": 47.5,
+   "pickup_datetime": "2014-05-26 17:37:00 UTC",
+   "pickup_longitude": "-73.98766",
+   "pickup_latitude": 40.724467,
+   "dropoff_longitude": "-73.987868",
+   "dropoff_latitude": 40.724022,
+   "passenger_count": 1
+ }
+]
