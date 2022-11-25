@@ -20,7 +20,8 @@ if st.sidebar.button('Combien ça me coûte ?'):
     url = "https://api.demo-marseille-lecture.com/pred1000/"
     response = requests.post(url, files={"file": file.getvalue()}).json()
 
-    df = pd.DataFrame({k:pd.Series(v) for k, v in response.items()}, columns=['Prix'])
+    df = pd.DataFrame({k:pd.Series(v) for k, v in response.items()})
+    df.columns = ["Prix"]
 
     st.table(df)
 
