@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 
 """
-# UberPred 🚕
+# UberPred - Prédire le prix d'une course 🚕
 """
 
 st.markdown(
