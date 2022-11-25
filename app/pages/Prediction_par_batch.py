@@ -4,7 +4,7 @@ import pandas as pd
 
 
 """
-# UberPred - Multiples preds 🚕
+# UberPred - Predicition de masse 🚕
 """
 
 st.markdown(
