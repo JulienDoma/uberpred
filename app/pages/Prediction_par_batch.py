@@ -23,3 +23,7 @@ if st.sidebar.button('Combien ça me coûte ?'):
     df = pd.DataFrame({k:pd.Series(v) for k, v in response.items()})
 
     st.table(df)
+
+    somme = df['fare'].sum()
+
+    st.text(f'Le total de vos courses va coûter {somme} $')
