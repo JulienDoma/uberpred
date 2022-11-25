@@ -8,8 +8,8 @@ import pandas as pd
 """
 
 st.markdown(
-    """
-Bienvenue, entre ton fichier à gauche et tu verras combien ça te coûte 💸
+"""
+Entre ton fichier à gauche et tu verras combien ça te coûte 💸
 """
 )
 
