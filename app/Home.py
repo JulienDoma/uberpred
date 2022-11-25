@@ -21,7 +21,7 @@ pickup = st.sidebar.text_input("Adresse de départ : ")
 dropoff = st.sidebar.text_input("Adresse d'arrivée : ")
 
 passenger_count = int(
-    st.sidebar.slider("Nombre de passagers", min_value=1, max_value=20, step=1, value=1)
+    st.sidebar.slider("Nombre de passagers", min_value=1, max_value=8, step=1, value=1)
 )
 
 if st.sidebar.button('Combien ça me coûte ?'):
